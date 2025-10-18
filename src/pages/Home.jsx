@@ -17,7 +17,7 @@ const Home = () => {
 
       <Link to="/github" style={{ fontSize:"30px"}}>Github Finder</Link>
       </div>
-    </div>
+    </div>  
 
 
     <div style={{width:"100%",gap:"20px",borderRight:"1px solid black",minHeight:"100vh"}}>
